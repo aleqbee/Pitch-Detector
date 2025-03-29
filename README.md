@@ -4,7 +4,6 @@ An external musical note detector.
 :::info 
 
 **Author**: Ana-Alexia Alecu \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-aleqbee
 
 :::
 
